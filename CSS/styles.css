@@ -35,3 +35,8 @@ Button.btn:hover{background-color: lightgrey;
   font-family: 'Futura Std Condensed';
 border-color: white;
 color:BLACK;}
+
+.footer1{margin-bottom: 3px;
+  background-color: slategrey;
+color:white;
+font-size: 1.2rem;}
