@@ -1,5 +1,5 @@
 body{background-color: ANTIQUEWHITE;
-color:DARKMAGENTA;
+color:ANTIQUEWHITE;
 font-size: 8rem;
 font-family: 'Futura Std Condensed','Verdana',sans-serif;
 text-align: center;
@@ -11,16 +11,34 @@ margin:0;
 
 
 
-.FONDO{background-color: ANTIQUEWHITE;
+.FONDO{background-color: black;
 margin:0;
 padding:15px}
 
 
 
-p{color: DARKMAGENTA;
+.texto1{color: ANTIQUEWHITE;
 font-size: 8rem;
 text-align: center;
-font-family: 'Axiforma'sans-serif,'Futura Std Condensed';
+font-family: 'Futura Std Condensed';
 padding-top: 3rem;}
 
-a{font-family: 'Futura Std Condensed'}
+
+.texto2{color: ANTIQUEWHITE;
+font-size: 3rem;
+text-align: center;
+font-family: 'Futura Std Condensed';
+padding-top: 4rem;}
+
+
+
+Button.btn{background-color:#39383b;
+border-color: white;
+color:white;
+font-size: 3rem;
+margin-left: 30%;
+margin-right: 30%;}
+
+Button.btn:hover{background-color: lightgrey;
+border-color: white;
+color:BLACK;}
