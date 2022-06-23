@@ -1,0 +1,26 @@
+body{background-color: ANTIQUEWHITE;
+color:DARKMAGENTA;
+font-size: 8rem;
+font-family: 'Futura Std Condensed','Verdana',sans-serif;
+text-align: center;
+font-weight: 700;
+padding:0;
+margin:0;
+}
+
+
+
+
+.FONDO{background-color: ANTIQUEWHITE;
+margin:0;
+padding:15px}
+
+
+
+p{color: DARKMAGENTA;
+font-size: 8rem;
+text-align: center;
+font-family: 'Axiforma'sans-serif,'Futura Std Condensed';
+padding-top: 3rem;}
+
+a{font-family: 'Futura Std Condensed'}
