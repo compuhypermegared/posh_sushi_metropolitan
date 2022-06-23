@@ -20,7 +20,8 @@ text-align: center;
 font-family: 'Futura Std Condensed';
 padding-top: 4rem;}
 
-
+img{margin-top: 6rem;
+margin-bottom: 6rem;}
 
 Button.btn{background-color:#39383b;
 border-color: white;
